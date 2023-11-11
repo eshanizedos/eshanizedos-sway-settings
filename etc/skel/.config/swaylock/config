@@ -12,7 +12,7 @@ font-size=20
 # Ring
 indicator-radius=360
 # line-uses-ring
-line-color=#3b4252git
+line-color=#3b4252
 text-color=#d8dee9
 inside-color=#2e344098
 inside-ver-color=#5e81ac
