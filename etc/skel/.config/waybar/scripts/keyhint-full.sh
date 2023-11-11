@@ -1,4 +1,4 @@
-yad --title="Garuda Sway-WM keybindings:" --no-buttons --width=481 --height=361 --list --column-align=l --column="Keyboard Shortcuts" --column="Command Description" \
+yad --title="Sway-WM keybindings for Eshanized OS:" --no-buttons --width=481 --height=361 --list --column-align=l --column="Keyboard Shortcuts" --column="Command Description" \
 "Esc" "Close this cheat-sheet" \
 "=" "modkey" \
 "+Return" "Start Terminal" \
