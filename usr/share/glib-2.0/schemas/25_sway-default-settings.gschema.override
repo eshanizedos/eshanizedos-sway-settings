@@ -26,10 +26,10 @@ xkb-options=['grp:alt_shift_toggle']
 [org.gnome.desktop.interface]
 clock-show-date=true
 clock-format='12h'
-cursor-theme='capitaine-cursors'
+cursor-theme='Dracula-cursors'
 enable-animations=true
-gtk-theme='Nordic-darker'
-icon-theme='Tela-circle-dark'
+gtk-theme='Orchis-Grey-Dark'
+icon-theme='Fluent-dark'
 show-battery-percentage=true
 
 [org.gnome.desktop.sound]
@@ -55,7 +55,7 @@ edge-scrolling-enabled=true
 button-layout='appmenu:minimize,maximize,close'
 mouse-button-modifier='<Super>'
 resize-with-right-button=true
-theme='Nordic-darker'
+theme='Orchis-Grey-Dark'
 
 [org.gtk.Settings.FileChooser]
 sort-directories-first=true
